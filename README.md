@@ -11,8 +11,8 @@
 
 <br/> 
 
-![ezcv logo](https://github.com/Shad-Alam/Strong-Password/blob/Strong-Password/Strong-Password/screenshots/s1.png)
+![ezcv logo](https://github.com/Shad-Alam/Strong-Password/blob/main/Strong-Password/screenshots/s1.png)
 
 <br/>
 
-![ezcv logo](https://github.com/Shad-Alam/Strong-Password/blob/Strong-Password/Strong-Password/screenshots/s2.png)
+![ezcv logo](https://github.com/Shad-Alam/Strong-Password/blob/main/Strong-Password/screenshots/s2.png)
